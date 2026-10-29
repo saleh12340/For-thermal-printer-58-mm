@@ -1,0 +1,6 @@
+{
+  "name": "MiniPrint Pro",
+  "description": "Smart 58mm Thermal Pocket Printer Companion (طابعة الجيب الذكية)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
